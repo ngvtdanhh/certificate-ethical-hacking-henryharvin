@@ -17,7 +17,7 @@ This repository documents my learning journey from the **Ethical Hacking** cours
 
 ## 📜 Certificate
 
-- 📄 [`henryharvin-ethical-hacking-certificate.pdf`](./cert/henryharvin-ethical-hacking-certificate.pdf)
+- 📄 [`henryharvin-ethical-hacking-certificate.pdf`](./cert/henryharvin-ethical-hacking-certificate.png)
 
 ---
 
@@ -85,13 +85,6 @@ By accessing or using any file within, you agree:
 - To use this content ethically, legally, and within boundaries of **responsible disclosure**
 
 See [`DISCLAIMER.md`](./DISCLAIMER.md) for full disclaimer.
-
----
-
-## 🤝 Code of Conduct
-
-We aim to foster a respectful, inclusive, and harassment-free learning environment.  
-Please see our [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) for expected behavior and reporting procedures.
 
 ---
 
