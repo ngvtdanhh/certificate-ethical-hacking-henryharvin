@@ -17,7 +17,7 @@ This repository documents my learning journey from the **Ethical Hacking** cours
 
 ## 📜 Certificate
 
-- 📄 [`henryharvin-ethical-hacking-certificate.pdf`](./cert/henryharvin-ethical-hacking-certificate.png)
+- 📄 [`enryharvin-ethical-hacking-certificate.pdf`](./cert/henryharvin-ethical-hacking-certificate.png)
 
 ---
 
